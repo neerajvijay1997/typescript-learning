@@ -7,3 +7,7 @@ https://www.typescriptlang.org/docs/handbook/2/keyof-types.html
 
 keyof typeof
 https://stackoverflow.com/questions/55377365/what-does-keyof-typeof-mean-in-typescript
+
+
+Prototype
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
