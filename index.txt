@@ -11,3 +11,37 @@ https://stackoverflow.com/questions/55377365/what-does-keyof-typeof-mean-in-type
 
 Prototype
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+
+
+
+
+
+
+NPM COMMANDS
+
+npm pack (generate a .tgz file)
+npm install -g path/to/your-package.tgz
+
+(list the global packages installed)
+npm list -g
+
+npm link
+(to test cli)
+
+
+npm exec -c 'nitro-rpc-client get-all-l2-channels -p 4006'
+
+
+
+
+YARN COMMANDS
+
+Install local packages globally
+perform this outside of nitro-rpc-client
+yarn global add file:/home/nabarun/neeraj/go-nitro/go-nitro/packages/nitro-rpc-client
+
+yarn global dir
+/home/nabarun/.config/yarn/global
+
+Yarn binary location
+~/.yarn/bin
