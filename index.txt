@@ -45,3 +45,14 @@ yarn global dir
 
 Yarn binary location
 ~/.yarn/bin
+
+
+
+
+
+
+install node js using nvm
+https://www.geeksforgeeks.org/how-to-install-nvm-on-ubuntu-22-04/
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
+
+
