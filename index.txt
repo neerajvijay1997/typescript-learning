@@ -1,5 +1,10 @@
 
 
+downgrade yarn version
+yarn set version <version>
+https://stackoverflow.com/questions/44448084/how-do-i-change-the-version-of-yarn-used
+
+
 
 keyof
 https://www.typescriptlang.org/docs/handbook/2/keyof-types.html
